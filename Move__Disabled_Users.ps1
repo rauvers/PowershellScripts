@@ -1,4 +1,4 @@
-﻿#Script to move disabled users based inactive account
+#Script to move disabled users based inactive account
 #Autor: Guilherme Rauvers
 # License: GNU_General_Public_License
 ## ------------------------------------------------------------------------------------------------------------------##
